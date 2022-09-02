@@ -1,1 +1,1 @@
-This is to creat and stup Git and GitHub account
+1. Hello Ubuntu
